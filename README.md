@@ -6,6 +6,7 @@ Il s'intéresse à la manière dont l'initiation à la programmation peut favori
 
 
 Objectifs
+
 Explorer le développement de la pensée informatique grâce à Scratch.
 Étudier l'apprentissage de l'algorithmique et du raisonnement logique.
 Observer la capacité des élèves à résoudre des problèmes à travers des activités de programmation.
@@ -14,6 +15,7 @@ Identifier les avantages et les limites de l'utilisation de Scratch dans le cont
 
 
 Résultats et limites
+
 L'expérimentation fait apparaître des progrès observés dans certaines compétences logiques et algorithmiques, ainsi qu'un intérêt des élèves pour la programmation avec Scratch.
 
 Toutefois, la taille très limitée de l'échantillon et la courte durée de l'expérimentation ne permettent pas de généraliser ces observations. Le travail examine également les difficultés liées à l'accès aux outils numériques et à la formation des enseignants dans le contexte malgache.
